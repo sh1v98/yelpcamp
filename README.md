@@ -40,8 +40,6 @@ To see the app in action, go to [YelpCamp](https://stormy-shelf-86103.herokuapp.
 ## Custom Enhancements
 * Update campground photos when editing campgrounds
 
-* Update personal information on profile page
-
 * Improve image load time on the landing page using Cloudinary
 
 * Use Helmet to strengthen security
@@ -50,7 +48,7 @@ To see the app in action, go to [YelpCamp](https://stormy-shelf-86103.herokuapp.
 This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
 
 ## Clone or download this repository
-``` git clone https://github.com/lucasweng/yelp-camp.git ```
+``` git clone https://github.com/sh1v98/yelpcamp.git ```
 ## Install dependencies
 ``` npm install ```
 or
